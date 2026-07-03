@@ -7,6 +7,8 @@ using namespace std;
 void dialogo1(const character &player) {
     cout<<player.name <<" :Parece que esta tierra esta vacia... he despertado en... este lado. " <<endl;
     typewriter("Deberia... asesinar algo", 40, 1.4);
+    cout << " " <<endl;
+    
     limpiarPantalla();
     
     cout<<player.name <<" :Los alrededores me estan cansando. Hay algo en mi cabeza que no deja de hablar" <<endl;

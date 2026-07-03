@@ -35,7 +35,7 @@ using namespace std;
                     cout<<"Has encontrado tu primer enemigo: " <<enemie3_zone1_normal.name <<"Preparate para enfrentarlo!" <<endl;
                     limpiarPantalla();
                     //primer combate. Ahora se supone que debería programarlo... la puta madre.
-
+                    game_active = false; // Salir del bucle tras completar la misión
 
                 break;
 
