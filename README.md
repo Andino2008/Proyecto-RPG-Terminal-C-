@@ -34,5 +34,6 @@ New-Item -ItemType Directory -Path .\\output -Force
 
 6. Compilar desde VS Code (tarea): `Compilar y Ejecutar C++` o `Compilar C++ (Todos los archivos)`.
 
-Si quieres, puedo actualizar `.vscode/settings.json` para apuntar a la ruta completa del compilador en tu máquina.
+nota: este readme lo hizo la IA. No tenia ni idea de por que no queria compilar este proyecto
+
 # Proyecto-RPG-Terminal-C-
